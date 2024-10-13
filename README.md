@@ -34,6 +34,7 @@ EMG pickups and wiring.
 3/2 tuners.
 5x bridge.
 PETG and PLA (use anything appropriate)
+fi6x3 magnets for covers.
 
 
 ![IMG20241013123906](https://github.com/user-attachments/assets/e6589095-5b2c-4999-8f5b-c4fa9185397c)
