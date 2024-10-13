@@ -19,6 +19,10 @@ There are COB led stips in core and neck. I am using 3x 18650 batteries to power
 
 Pick ups active EMG.
 
+Parts 1, 2, 3, 4 are for cutting fretboard grooves for frets.
+
+Neck, core and fretboard are made of wood!
+
 ![IMG20241013123906](https://github.com/user-attachments/assets/e6589095-5b2c-4999-8f5b-c4fa9185397c)
 
 ![IMG20241013123919](https://github.com/user-attachments/assets/351eab86-ae36-4b7c-b66f-23fc84fdeed8)
