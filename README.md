@@ -15,16 +15,26 @@ Middle part grey print is PETG.
 
 Purple parts are PLA.
 
-There are COB led stips in core and neck. I am using 3x 18650 batteries to power LEDS. I am using MT3608 DC-DC Adjustable Boost Module 2A Boost Plate Step Up Module Power Supply to boost voltage to 8-9V, since I am using 9V LEDs.
+There are green COB led stips in core and neck. I am using 3x 18650 batteries to power LEDS. I am using MT3608 DC-DC Adjustable Boost Module 2A Boost Plate Step Up Module Power Supply to boost voltage to 8-9V, since I am using 9V LEDs.
+
+2x reen LED switch (LEDS) and 1 blue LED switch (pickups) are used.
 
 Pick ups active EMG.
 
-Parts 1, 2, 3, 4 are for cutting fretboard grooves for frets.
+Parts 1, 2, 3, 4 are for cutting fretboard grooves for frets. They overlap. Cut all grooves from one piece, overlap with next piece.
 
 Neck, core and fretboard are made of wood!
 
 Some M3x4xx4 brass inserts are needed.
 Some M3x 25 and 30 screws are needed.
+3x 18650 batteries and metal connecting strips for  LEDs. Batteries are in serial.
+1x MT3608 DC-DC Adjustable Boost Module 2A Boost Plate Step Up Module Power Supply.
+EMG pickups and wiring.
+3x Metal Push Button Switch 12MM LED Light Momentary 12V 220V Self-locking Latching Waterproof On/Off PC Power Switch Button (2x green, 1x blue)
+3/2 tuners.
+5x bridge.
+PETG and PLA (use anything appropriate)
+
 
 ![IMG20241013123906](https://github.com/user-attachments/assets/e6589095-5b2c-4999-8f5b-c4fa9185397c)
 
