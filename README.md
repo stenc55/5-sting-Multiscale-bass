@@ -17,7 +17,7 @@ Purple parts are PLA.
 
 There are green COB led stips in core and neck. I am using 3x 18650 batteries to power LEDS. I am using MT3608 DC-DC Adjustable Boost Module 2A Boost Plate Step Up Module Power Supply to boost voltage to 8-9V, since I am using 9V LEDs.
 
-2x reen LED switch (LEDS) and 1 blue LED switch (pickups) are used.
+2x green LED switch (LEDS) and 1 blue LED switch (pickups) are used.
 
 Pick ups active EMG.
 
