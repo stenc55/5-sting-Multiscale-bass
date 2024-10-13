@@ -11,7 +11,7 @@ Neck I  made out of maple, fretboard is Malasian rosewood.
 
 Core of the guitar is maple. Printed one will warp over time.
 
-Core print is PETG.
+Middle part grey print is PETG.
 
 Purple parts are PLA.
 
@@ -22,6 +22,9 @@ Pick ups active EMG.
 Parts 1, 2, 3, 4 are for cutting fretboard grooves for frets.
 
 Neck, core and fretboard are made of wood!
+
+Some M3x4xx4 brass inserts are needed.
+Some M3x 25 and 30 screws are needed.
 
 ![IMG20241013123906](https://github.com/user-attachments/assets/e6589095-5b2c-4999-8f5b-c4fa9185397c)
 
